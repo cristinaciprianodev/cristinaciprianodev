@@ -33,7 +33,6 @@ Transformo ideias em sistemas inteligentes e eficientes — da **automação de 
 
 ### 🚀 Projetos em Destaque
 
-🔹 [**IuriMentis**](#) — Agente Jurídico Artificial Angolano
 🔹 [**SGM**](#) — Sistema de Gestão Municipal com IA
 🔹 [**IDE Writer**](#) — Ambiente de Escrita Inteligente para Autores
 🔹 [**BigData Angola**](#) — Coleta e análise de dados nacionais
